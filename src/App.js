@@ -12,7 +12,7 @@ class App extends React.Component{
         
     }
     componentDidMount(){
-        this.handleSubmit('chill trap 2020')
+        this.handleSubmit('best travel destination')
     }
 
     onVideoSelect = (video) => {
